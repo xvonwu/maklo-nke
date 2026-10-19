@@ -1,0 +1,6 @@
+{
+  "name": "MAKLO × Nike Lab Footwear",
+  "description": "Engineered precision meets high-street athletic minimalism. Explore the Nike LeBron 15 flagship showcase, progressive sneaker collections, archive deals, and shopping bag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
